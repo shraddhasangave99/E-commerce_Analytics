@@ -3,7 +3,7 @@
 
 🎯Task:- As a Data Analyst, I have to conduct exploratory data analysis to uncover insights, Segmenting customers and analyzing sales performance.
 
-   [View Project Insights (Pdf file)](https://drive.google.com/file/d/1zGZjq6F83Xd29bwrm7nToHrw0Hts_4xR/view?usp=drive_link)
+   [View Project Insights (Pdf file)](https://drive.google.com/file/d/1-9PQMMxfNcdRExh6f6-9DvuTcN3kCaVp/view?usp=drive_link)
    
 ![08-min-1](https://github.com/shraddhasangave99/E-commerce-Analytics/assets/153710836/f91a92ce-f1a9-4d0a-a9ff-70183f360b6c)
 
